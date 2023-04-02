@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Shadi812/Shadi812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi name is Shadi, I am a software developer from New Jersey. Coming from a background in sales, I recently completed a software engineering bootcamp hosted by Thinkful, where I learned industry best practices and software development standards with a focus on Javascript, HTML5, CSS3, React, Node.js, PostgreSQL, and RESTful API's.
 
 Here are some ideas to get you started:
 
