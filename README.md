@@ -1,6 +1,10 @@
 # Hi there 👋
+Hi, I'm Shadi, a software developer based in New Jersey. My background in sales inspired me to explore new opportunities in software development, and I recently completed an intensive software engineering bootcamp hosted by Thinkful.
 
-Hi my name is Shadi, I am a software developer from New Jersey. Coming from a background in sales, I recently completed a software engineering bootcamp hosted by Thinkful, where I learned industry best practices and software development standards with a focus on Javascript, HTML5, CSS3, React, Node.js, PostgreSQL, and RESTful API's.
+During the program, I learned industry best practices and software development standards, with a strong focus on technologies such as JavaScript, HTML5, CSS3, React, Node.js, PostgreSQL, and RESTful APIs. I gained hands-on experience in building full-stack web applications and working in a team environment, where I developed valuable skills in communication, collaboration, and problem-solving.
+
+I'm passionate about using technology to create innovative solutions to real-world problems, and I'm always eager to learn new things and stay up-to-date with the latest trends and developments in the industry. Please feel free to connect with me if you have any questions or if you think we could collaborate on a project together.
+
 
 # What I am Up To:
 
